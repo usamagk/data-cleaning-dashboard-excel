@@ -1,7 +1,5 @@
 # Bike Sales Dashboard (Excel)
 
-## What this is
-
 An interactive dashboard built in Excel to explore who actually buys bikes and why, using a customer dataset with details like income, occupation, commute distance, education, and demographics. The goal wasn't just to make some charts, it was to figure out which customer traits actually relate to a purchase decision, and present that in a way someone could explore themselves.
 
 ## The dataset
